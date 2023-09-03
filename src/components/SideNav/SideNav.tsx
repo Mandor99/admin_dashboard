@@ -1,5 +1,5 @@
 import { List, ListItemButton, ListItemText, ListSubheader } from '@mui/material'
-import React, { FC } from 'react'
+import { FC } from 'react'
 import {IItem, ISidenav, menu} from '../../utilis/data'
 import { Link } from 'react-router-dom'
 

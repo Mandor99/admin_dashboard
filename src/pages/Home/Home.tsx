@@ -1,4 +1,4 @@
-import React, { FC } from 'react'
+import { FC } from 'react'
 import { Deals, HomeGrid, Leads, Revenue, MyBox } from './homeStyle'
 import TopDeals from '../../components/TopDeals/TopDeals'
 import LineCharts from '../../components/charts/LineCharts'

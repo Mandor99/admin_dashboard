@@ -18,7 +18,7 @@ export const Aside = styled(Box)(({theme}) => ({
     [theme.breakpoints?.up('xl')]: {width:'250px'}
 }))
 
-export const Section = styled(Box)(({theme}) => ({
+export const Section = styled(Box)(() => ({
     width: '100%',
     padding: '5px 20px',
     overflow:'hidden'
